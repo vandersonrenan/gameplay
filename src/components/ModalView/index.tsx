@@ -38,5 +38,5 @@ export function ModalView({
         </View>
       </TouchableWithoutFeedback>
     </Modal>
-  )
+  );
 }

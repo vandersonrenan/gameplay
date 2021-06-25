@@ -15,8 +15,8 @@ export const styles = StyleSheet.create({
     marginTop: 32,
   },
   select: {
-    width: '100%',
     flexDirection: 'row',
+    width: '100%',
     height: 68,
     borderColor: theme.colors.secondary50,
     borderWidth: 1,
@@ -62,4 +62,4 @@ export const styles = StyleSheet.create({
     marginVertical: 20,
     marginBottom: 56,
   }
-})
+});
